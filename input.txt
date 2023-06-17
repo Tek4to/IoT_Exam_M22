@@ -1,0 +1,1 @@
+dt(float),dt(int),Tmax,Tmin,tнаг,tубыв
