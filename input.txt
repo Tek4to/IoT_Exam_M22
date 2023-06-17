@@ -1,0 +1,4 @@
+dt(float),dt(int),Tmax,Tmin,tнаг,tубыв
+
+dt(float) - длительность шага
+dt(int) - время всего процесса
