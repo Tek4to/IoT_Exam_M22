@@ -1,0 +1,52 @@
+time=0 change_state_true=1 change_state_done=1 state_true=1 temp_true=735 temp_seeming=623 
+time=1 change_state_done=1 temp_seeming=828 
+time=2 temp_true=678 temp_seeming=1549 state_true=0 change_state_true=1 
+time=3 change_state_true=1 temp_seeming=869 
+time=4 temp_seeming=676 state_true=1 temp_true=1894 change_state_true=1 change_state_done=1 
+time=5 change_state_done=1 change_state_true=1 state_true=1 
+time=6 change_state_done=1 
+time=7 change_state_done=1 state_true=0 
+time=8 change_state_done=1 state_true=1 temp_seeming=769 
+time=9 change_state_done=1 change_state_true=1 
+time=10 temp_seeming=1047 change_state_done=1 
+time=11 change_state_true=1 temp_true=925 change_state_done=1 
+time=12 temp_true=844 state_true=0 change_state_done=1 change_state_true=1 
+time=13 change_state_true=1 
+time=14 change_state_done=1 
+time=15 state_true=1 change_state_done=1 change_state_true=1 temp_true=1937 temp_seeming=1208 
+time=16 state_true=0 
+time=17 temp_true=1823 
+time=18 state_true=1 temp_seeming=882 change_state_true=1 temp_true=1834 change_state_done=1 
+time=19 change_state_done=1 
+time=20 change_state_true=1 temp_true=1253 state_true=0 change_state_done=1 
+time=21 temp_seeming=1418 state_true=0 
+time=22 change_state_done=1 temp_true=932 temp_seeming=1175 change_state_true=1 state_true=0 
+time=23 temp_seeming=1680 state_true=1 temp_true=1899 change_state_true=1 change_state_done=1 
+time=24 state_true=1 
+time=25 temp_seeming=1974 state_true=0 
+time=26 state_true=0 temp_seeming=931 change_state_true=1 change_state_done=1 temp_true=1451 
+time=27 temp_true=1612 state_true=1 
+time=28 state_true=1 change_state_done=1 temp_seeming=688 change_state_true=1 temp_true=902 
+time=29 change_state_true=1 temp_true=709 temp_seeming=1886 state_true=0 change_state_done=1 
+time=30 temp_seeming=1240 state_true=0 change_state_true=1 change_state_done=1 temp_true=1750 
+time=31 temp_true=936 state_true=0 temp_seeming=1286 
+time=32 change_state_true=1 temp_seeming=825 temp_true=1770 change_state_done=1 state_true=1 
+time=33 change_state_done=1 
+time=34 state_true=1 
+time=35 temp_true=1089 
+time=36 temp_seeming=1627 state_true=0 temp_true=1032 change_state_true=1 change_state_done=1 
+time=37 temp_true=830 
+time=38 state_true=1 temp_seeming=1955 
+time=39 change_state_true=1 change_state_done=1 state_true=1 temp_true=585 
+time=40 change_state_true=1 change_state_done=1 temp_true=1541 
+time=41 state_true=0 change_state_done=1 
+time=42 change_state_done=1 temp_true=1279 state_true=0 temp_seeming=877 change_state_true=1 
+time=43 change_state_true=1 state_true=1 
+time=44 change_state_true=1 temp_seeming=1054 temp_true=671 change_state_done=1 state_true=0 
+time=45 temp_true=1805 state_true=0 change_state_done=1 change_state_true=1 temp_seeming=1710 
+time=46 temp_true=1950 state_true=0 
+time=47 state_true=0 temp_true=1219 change_state_true=1 
+time=48 temp_true=989 state_true=1 
+time=49 state_true=0 change_state_done=1 temp_seeming=1547 
+time=50 temp_seeming=1690 
+time=51 temp_true=1932 temp_seeming=542 state_true=0 change_state_done=1 
